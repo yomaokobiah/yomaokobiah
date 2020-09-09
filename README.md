@@ -24,7 +24,7 @@ I'm Ogheneyoma Okobiah, a Computer Engineering student committed to understandin
 ---
 
 #### Online presence/contacts:
-- Blog: [My blog](www.yomaokobiah.com)
+- Blog: [My blog](https://yomaokobiah.com)
 - Twitter: [My handle](https://twitter.com/yomdroid)
 - LinkedIn: [My profile](https://www.linkedin.com/in/ogheneyoma-okobiah/)
 - Email: yomdroid at gmail.com
