@@ -3,7 +3,7 @@
 ![yoma](https://github.com/Yomdroid/Yomdroid/raw/master/yomsocial.png)
 
 
-I'm Ogheneyoma Okobiah, a Computer Engineering student committed to understanding the critical science of computer software and its engineering, understanding the concepts of Cloud Computing and Computer Hardware. Good knowledge in Python programming language. A community contributor focused on building local and global communities in Africa.
+I'm Ogheneyoma Okobiah, a Computer Engineering student committed to understanding Computer Hardware. Good knowledge in Python programming language. A community contributor focused on building local and global communities in Africa.
 
 ---
 #### Skills and Interests:
