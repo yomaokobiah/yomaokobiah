@@ -28,7 +28,7 @@ Data Center and Hosted Services Intern
 - Blog: [My blog](https://yomaokobiah.com)
 - Twitter: [My handle](https://twitter.com/yomaokobiah)
 - LinkedIn: [My profile](https://www.linkedin.com/in/ogheneyoma-okobiah/)
-- Email: yomdroid at gmail.com
+- Email: yomaokobiah at gmail.com
 
 
 <!--
