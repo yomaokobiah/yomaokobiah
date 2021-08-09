@@ -3,29 +3,30 @@
 ![yoma](https://github.com/Yomdroid/Yomdroid/raw/master/yomsocial.png)
 
 
-I'm Ogheneyoma Okobiah, a Computer Engineering student committed to understanding Computer Hardware. Good knowledge in Python programming language. A community contributor focused on building local and global communities in Africa.
+I’m a Computer Engineer and Developer Advocate interested in the Machine Learning, Cloud Computing, and Hardware Engineering industries. I’m also a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
 
 ---
-#### Skills and Interests:
-- Programming Language(s): Python, C++(Beginner)
-- OS: Linux, MacOS
-- Web: Flask
-- Cloud: HCP, AWS
-- Project Management: Jira
-- Others: Agile
-- Language(s): English
-- Interests: Data Science, Artificial Intelligence, Robotics
-- Certifications: HCIA-Cloud Services, HCIA-Cloud Computing
+### TECHNICAL PROFICIENCIES:
+- Skills: Machine Learning, Electronics, Data Science, Developer Relations, Technical Writing,
+Leadership, Community Management, Content Creation, and Accounting.
+- Technologies: Python, C++, Flask, Heroku, HCP, and AWS.
+- Tools: Jupyter, GitHub, Git, Slack, Discord, Trello, Notion, Google Services, and Zoom.
+- Certifications: HCIA-Cloud Services and HCIA-Cloud Computing.
+- Volunteering: Partnerships and Finance Lead at Open Source Community Africa.
+
 
 ---
-#### Activities:
-- Cloud Engineering intern at [Analog](https://analogteams.com)
-- Partnerships and Finance Lead at [Open Source Community Africa (OSCA)](https://oscafrica.org)
+### WORK EXPERIENCE:
+
+Data Center and Hosted Services Intern
+
+[Galaxy Backbone](https://galaxybackbone.com.ng/), Abuja, Nigeria (March 2021 - August 2021)
+
 ---
 
 #### Online presence/contacts:
 - Blog: [My blog](https://yomaokobiah.com)
-- Twitter: [My handle](https://twitter.com/yomdroid)
+- Twitter: [My handle](https://twitter.com/yomaokobiah)
 - LinkedIn: [My profile](https://www.linkedin.com/in/ogheneyoma-okobiah/)
 - Email: yomdroid at gmail.com
 
