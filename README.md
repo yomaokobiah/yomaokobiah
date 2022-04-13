@@ -3,7 +3,7 @@
 ![yoma](https://github.com/Yomdroid/Yomdroid/raw/master/yomsocial.png)
 
 
-Education community manager at GitHub. I’m a Computer Engineer and Developer Advocate interested in embedded systems. I’m also a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
+I'm currently an Education community manager at GitHub. I’m also Computer Engineer and Developer Advocate interested in embedded systems; a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
 
 ---
 ### TECHNICAL PROFICIENCIES:
