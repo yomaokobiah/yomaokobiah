@@ -3,13 +3,13 @@
 ![yoma](https://github.com/Yomdroid/Yomdroid/raw/master/yomsocial.png)
 
 
-I’m a Computer Engineer and Developer Advocate interested in the Machine Learning, Cloud Computing, and Hardware Engineering industries. I’m also a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
+Education community manager at GitHub. I’m a Computer Engineer and Developer Advocate interested in embedded systems. I’m also a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
 
 ---
 ### TECHNICAL PROFICIENCIES:
-- Skills: Machine Learning, Electronics, Data Science, Developer Relations, Technical Writing,
+- Skills: Electronics, Technical Writing,
 Leadership, Community Management, Content Creation, and Accounting.
-- Technologies: Python, C++, Flask, Heroku, HCP, and AWS.
+- Technologies: Python, C++, HCP.
 - Tools: Jupyter, GitHub, Git, Slack, Discord, Trello, Notion, Google Services, and Zoom.
 - Certifications: HCIA-Cloud Services and HCIA-Cloud Computing.
 - Volunteering: Partnerships and Finance Lead at Open Source Community Africa.
