@@ -3,13 +3,13 @@
 ![yoma](https://github.com/Yomdroid/Yomdroid/raw/master/yomsocial.png)
 
 
-I'm currently an Education community manager at GitHub. I’m also Computer Engineer and Developer Advocate interested in embedded systems; a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
+I'm currently an Education community manager at GitHub. I’m also Computer Engineer interested in embedded systems; a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
 
 ---
 ### TECHNICAL PROFICIENCIES:
 - Skills: Electronics, Technical Writing,
-Leadership, Community Management, Content Creation, and Accounting.
-- Technologies: Python, C++, HCP.
+Leadership, Community Management, Content Creation.
+- Technologies: Python, C++.
 - Tools: Jupyter, GitHub, Git, Slack, Discord, Trello, Notion, Google Services, and Zoom.
 - Certifications: HCIA-Cloud Services and HCIA-Cloud Computing.
 - Volunteering: Partnerships and Finance Lead at Open Source Community Africa.
