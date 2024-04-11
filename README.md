@@ -3,24 +3,15 @@
 ![yoma](https://github.com/Yomdroid/Yomdroid/raw/master/yomsocial.png)
 
 
-I'm currently an Education community manager at GitHub. I’m also Computer Engineer interested in embedded systems; a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
+I’m a Computer Engineer interested in embedded systems and a community contributor focused on building local and global communities in Africa through the Open Source Community Africa.
 
 ---
 ### TECHNICAL PROFICIENCIES:
-- Skills: Electronics, Technical Writing,
-Leadership, Community Management, Content Creation.
+- Skills: Technical writing, Community building, Content creation.
 - Technologies: Python, C++.
-- Tools: Jupyter, GitHub, Git, Slack, Discord, Trello, Notion, Google Services, and Zoom.
-- Certifications: HCIA-Cloud Services and HCIA-Cloud Computing.
+- Tools: Git, Slack, Discord, Trello, Notion, Google Services, and Zoom.
 - Volunteering: Partnerships and Finance Lead at Open Source Community Africa.
 
-
----
-### WORK EXPERIENCE:
-
-Data Center and Hosted Services Intern
-
-[Galaxy Backbone](https://galaxybackbone.com.ng/), Abuja, Nigeria (March 2021 - August 2021)
 
 ---
 
